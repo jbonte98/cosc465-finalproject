@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<amp:amp_client_detail version="1" xmlns:amp="http://www.airwave.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.airwave.com amp_client_detail.xsd">
+  <client mac="01:02:03:04:05:06">
+    <ap id="4238">ServiceDesk-29-5F:48</ap>
+    <assoc_stat>true</assoc_stat>
+    <association id="910872624">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-07T01:33:13-04:00</connect_time>
+      <disconnect_time>2020-04-07T01:33:13-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910872623">
+      <ap id="180">TH4-A11-25:7A</ap>
+      <bytes_used>12264000</bytes_used>
+      <connect_time>2020-04-06T17:26:08-04:00</connect_time>
+      <disconnect_time>2020-04-07T01:33:13-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>41</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910854660">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T17:26:08-04:00</connect_time>
+      <disconnect_time>2020-04-06T17:26:08-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910850667">
+      <ap id="1394">100Broad-204-26:0A</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T16:25:59-04:00</connect_time>
+      <disconnect_time>2020-04-06T16:26:20-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>10</rssi>
+      <ssid>eduroam</ssid>
+      <vlan>611</vlan>
+    </association>
+    <association id="910849603">
+      <ap id="1723">OConnor-Outdoor-65:a4</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:58:02-04:00</connect_time>
+      <disconnect_time>2020-04-06T16:08:02-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910849035">
+      <ap id="448">Alana-12-5A:86</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:57:28-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:58:02-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848990">
+      <ap id="1464">OConnor-11-47:0a</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:55:43-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:57:28-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848890">
+      <ap id="3203">GateHouse-29-C9:F0</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:55:28-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:55:43-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848876">
+      <ap id="3203">GateHouse-29-C9:F0</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:55:28-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:55:28-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848875">
+      <ap id="447">OConnor-MR12-5B:76</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:55:08-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:55:28-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>36</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848861">
+      <ap id="1723">OConnor-Outdoor-65:a4</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:54:57-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:55:08-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910848863">
+      <ap id="447">OConnor-MR12-5B:76</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:55:08-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:55:08-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910848850">
+      <ap id="3427">East-15-C8:5C</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:54:08-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:54:57-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848823">
+      <ap id="3427">East-15-C8:5C</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:54:01-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:54:08-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848808">
+      <ap id="3427">East-15-C8:5C</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:53:38-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:54:01-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848789">
+      <ap id="1713">East-Outdoor-72:54</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:52:47-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:53:38-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>26</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848748">
+      <ap id="206">West-12-24:B2</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:52:42-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:52:47-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848746">
+      <ap id="206">West-12-24:B2</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:52:42-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:52:42-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910848745">
+      <ap id="3279">West-2.10-C9:52</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:45:40-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:52:42-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>33</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910848113">
+      <ap id="1750">Stillman-AP-103</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:34:18-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:39:26-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847882">
+      <ap id="3189">Curtis-29-C8:A0</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:33:13-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:34:18-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847817">
+      <ap id="3189">Curtis-29-C8:A0</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:33:13-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:33:13-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847816">
+      <ap id="3236">Curtis-1.12-C8:2E</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:32:12-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:33:13-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>29</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847772">
+      <ap id="3236">Curtis-1.12-C8:2E</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:32:09-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:32:12-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847746">
+      <ap id="3236">Curtis-1.12-C8:2E</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:31:17-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:31:43-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847722">
+      <ap id="855">Curtis-109-5B:3A</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:29:52-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:31:17-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847627">
+      <ap id="3495">BCraw-1.3</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:28:57-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:29:52-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>21</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847591">
+      <ap id="3495">BCraw-1.3</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:28:47-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:28:57-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847576">
+      <ap id="3304">BCraw-27-C9:4E</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:28:37-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:28:47-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847559">
+      <ap id="1592">BCore-223-40:b8</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:28:20-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:28:37-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847549">
+      <ap id="2762">113Shep-108-58:8E</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:26:06-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:28:20-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847440">
+      <ap id="1293">Huntington-12-5B:36</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:25:46-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:26:06-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847434">
+      <ap id="1293">Huntington-12-5B:36</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:25:46-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:25:46-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910847433">
+      <ap id="877">Huntington-24-25:06</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:25:36-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:25:46-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847421">
+      <ap id="883">Huntington-11-5B:3C</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:25:16-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:25:36-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910847424">
+      <ap id="877">Huntington-24-25:06</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:25:36-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:25:36-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910847228">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-06T15:16:30-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:21:35-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910846990">
+      <ap id="180">TH4-A11-25:7A</ap>
+      <bytes_used>2829000</bytes_used>
+      <connect_time>2020-04-06T14:04:48-04:00</connect_time>
+      <disconnect_time>2020-04-06T15:16:30-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>45</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910843657">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>507906600</bytes_used>
+      <connect_time>2020-04-04T20:03:55-04:00</connect_time>
+      <disconnect_time>2020-04-06T14:04:48-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>48</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910770007">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>837313500</bytes_used>
+      <connect_time>2020-04-02T16:58:02-04:00</connect_time>
+      <disconnect_time>2020-04-04T20:03:55-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>48</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910675137">
+      <ap id="176">TH4-C21-24:C6</ap>
+      <bytes_used>1170300</bytes_used>
+      <connect_time>2020-04-02T16:29:59-04:00</connect_time>
+      <disconnect_time>2020-04-02T16:48:02-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>44</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910674354">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>72220800</bytes_used>
+      <connect_time>2020-04-02T09:28:02-04:00</connect_time>
+      <disconnect_time>2020-04-02T16:29:59-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>45</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910656183">
+      <ap id="176">TH4-C21-24:C6</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-04-02T09:11:57-04:00</connect_time>
+      <disconnect_time>2020-04-02T09:18:02-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>27</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910655975">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>5587500</bytes_used>
+      <connect_time>2020-04-02T05:15:48-04:00</connect_time>
+      <disconnect_time>2020-04-02T09:11:57-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>36</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910650853">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>48981900</bytes_used>
+      <connect_time>2020-04-01T14:06:58-04:00</connect_time>
+      <disconnect_time>2020-04-02T05:15:48-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>45</rssi>
+      <ssid>eduroam</ssid>
+      <vlan>192</vlan>
+    </association>
+    <association id="910623553">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>1473731700</bytes_used>
+      <connect_time>2020-04-01T00:12:41-04:00</connect_time>
+      <disconnect_time>2020-04-01T14:06:58-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>47</rssi>
+      <ssid>eduroam</ssid>
+      <vlan>611</vlan>
+    </association>
+    <association id="910600689">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>120900</bytes_used>
+      <connect_time>2020-04-01T00:08:30-04:00</connect_time>
+      <disconnect_time>2020-04-01T00:12:41-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>38</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910600595">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>133586100</bytes_used>
+      <connect_time>2020-03-31T08:28:02-04:00</connect_time>
+      <disconnect_time>2020-04-01T00:08:30-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>48</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910559941">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>3022200</bytes_used>
+      <connect_time>2020-03-31T02:48:02-04:00</connect_time>
+      <disconnect_time>2020-03-31T08:20:18-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>40</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910553739">
+      <ap id="176">TH4-C21-24:C6</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-03-31T02:29:45-04:00</connect_time>
+      <disconnect_time>2020-03-31T02:38:02-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>33</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910553597">
+      <ap id="176">TH4-C21-24:C6</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-03-31T02:16:37-04:00</connect_time>
+      <disconnect_time>2020-03-31T02:28:02-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>34</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910553268">
+      <ap id="176">TH4-C21-24:C6</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-03-31T02:01:22-04:00</connect_time>
+      <disconnect_time>2020-03-31T02:08:02-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>31</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910553171">
+      <ap id="176">TH4-C21-24:C6</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-03-31T02:00:35-04:00</connect_time>
+      <disconnect_time>2020-03-31T02:01:22-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910553164">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2020-03-31T02:00:34-04:00</connect_time>
+      <disconnect_time>2020-03-31T02:00:35-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910553163">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>641415600</bytes_used>
+      <connect_time>2020-03-29T17:07:27-04:00</connect_time>
+      <disconnect_time>2020-03-31T02:00:34-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>47</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <association id="910492076">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>1183244400</bytes_used>
+      <connect_time>2020-03-28T07:49:59-04:00</connect_time>
+      <disconnect_time>2020-03-29T17:07:22-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>47</rssi>
+      <ssid>eduroam</ssid>
+      <vlan>192</vlan>
+    </association>
+    <association id="910437886">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>5171370000</bytes_used>
+      <connect_time>2020-03-27T13:41:16-04:00</connect_time>
+      <disconnect_time>2020-03-28T07:49:59-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>44</rssi>
+      <ssid>eduroam</ssid>
+      <vlan>192</vlan>
+    </association>
+    <association id="910403280">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>1961199900</bytes_used>
+      <connect_time>2020-03-26T10:48:23-04:00</connect_time>
+      <disconnect_time>2020-03-27T13:41:16-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>47</rssi>
+      <ssid>eduroam</ssid>
+      <vlan>192</vlan>
+    </association>
+    <association id="910342531">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>35100</bytes_used>
+      <connect_time>2020-03-26T10:29:46-04:00</connect_time>
+      <disconnect_time>2020-03-26T10:48:23-04:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>36</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>611</vlan>
+    </association>
+    <association id="910341869">
+      <ap id="4238">ServiceDesk-29-5F:48</ap>
+      <bytes_used>710842200</bytes_used>
+      <connect_time>2020-03-24T21:42:27-04:00</connect_time>
+      <disconnect_time>2020-03-26T10:29:46-04:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>44</rssi>
+      <ssid>eduroam</ssid>
+      <username>anon1</username>
+      <vlan>192</vlan>
+    </association>
+    <auth_stat>true</auth_stat>
+    <auth_type>WPA2 (EAP-PEAP)</auth_type>
+    <connect_time>2020-04-07T01:33:13-04:00</connect_time>
+    <device_type>iPad</device_type>
+    <login_time>2020-04-07T16:40:58-04:00</login_time>
+    <radio_mode>ac</radio_mode>
+    <rssi>47</rssi>
+    <signal>-47</signal>
+    <snr>47</snr>
+    <ssid>eduroam</ssid>
+    <username>anon1</username>
+    <vendor>Unknown</vendor>
+    <vlan>192</vlan>
+  </client>
+</amp:amp_client_detail>
